@@ -1,79 +1,79 @@
 <div align="center">
   
-# Hi there! 👋 I'm Basel Nbil
+# Hi there! 👋 I'm Basel Nabil
 
-### Data Engineer & Cloud Enthusiast
+### Data Engineer & ETL Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Building+Data+Pipelines;ETL+Developer;AWS+Cloud+Practitioner;Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+Developer;Data+Engineering+Student;ETL+Pipeline+Developer;Database+Design+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 About Me
-- 🔭 I'm currently working on **Data Engineering Projects**
-- 🌱 Learning **AWS Cloud** and **Apache Airflow**
-- 💡 Open to collaborating on **Data Engineering & ETL Projects**
+## 💫 About Me
+- 🎓 Studying **Social Science Computing** at **Faculty of Economics and Political Science - Cairo University**
+- 🌱 Currently exploring **Data Engineering** at **Digital Egypt Pioneer Initiative**
+- 💼 Former **AI Teacher Assistant** at **STEM CLUB**
 - 📫 Reach me at: **basel.nabil1111@gmail.com**
-- 🎓 Studying at **Faculty of Economics and Political Science - Cairo University**
+- 📍 Based in **Nasr City, Cairo, Egypt**
 
-## 🤝 Connect with Me
-<p>
-  <a href="https://twitter.com/baselnabil44" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="30"/>
-  </a>
-  <a href="https://linkedin.com/in/basel-nabil-03142b283" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
-  </a>
+## 🔗 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/basel-nabil-03142b283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basel-nabil" height="30" width="40" /></a>
+<a href="https://github.com/baselnabil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="baselnabil" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Technical Stack
+## 🛠 Technical Stack
 
-### Languages & Tools
-<p>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://airflow.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_64x64_emoji_transparent.png" alt="Airflow" width="40" height="40"/></a>
-  <a href="https://spark.apache.org/" target="_blank"><img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="Spark" width="40" height="40"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://kafka.apache.org/logos/kafka_logo--simple.png" alt="Kafka" width="40" height="40"/></a>
-</p>
+### 💻 Programming & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Databases
-<p>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/></a>
-</p>
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baselnabil&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=baselnabil&show_icons=true&theme=radical" alt="Basel's GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baselnabil&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baselnabil&show_icons=true&theme=tokyonight" alt="Basel's GitHub stats" />
+</p>
 
-## 🎯 Featured Projects
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baselnabil&theme=tokyonight" alt="Basel's GitHub streak"/>
+</p>
 
-### ETL Pipeline with Airflow and Spark
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baselnabil&repo=ETL_GRAD_Project)](https://github.com/baselnabil/ETL_GRAD_Project)
+## 🚀 Featured Projects
 
-### Real-Time Streaming with Kafka
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baselnabil&repo=Kafka-Spark-Streaming)](https://github.com/baselnabil/Kafka-Spark-Streaming)
+### 1. ETL Pipeline using Airflow and Spark
+- 🔧 Built with: Airflow, Spark, PostgreSQL, MariaDB, Python, Pandas, Docker
+- 📊 Automated ETL pipeline with distributed data processing
+- 🔗 [View Project](https://github.com/baselnabil/ETL_GRAD_Project)
 
+### 2. Vehicle Crash Data Warehouse
+- 🔧 Built with: MySQL, PostgreSQL, SQL Server, SSIS, Power BI
+- 📊 Multi-database warehouse with comprehensive crash analysis
+- 🔗 [View Project](https://github.com/baselnabil/ETL_PROJECT)
 
+### 3. Star Schema Data Warehouse with NiFi
+- 🔧 Built with: Apache NiFi, PostgreSQL
+- 📊 Optimized star schema model with automated data integration
+- 🔗 [View Project](https://github.com/baselnabil/retail_model_ETL)
 
-## 🏆 Certifications
-- AWS Certified Cloud Practitioner
-- Data Engineering Track (Manara)
-- SQL Associate (DataCamp)
-- Big Data Course (Orange Digital Center)
+## 📜 Certifications
+- 🏆 Manara Data Engineering Track (2024)
+- 🏆 Advanced Data Engineering Skills - LinkedIn Learning
+- 🏆 SQL Associate - DataCamp
+- 🏆 Big Data Course - Orange Digital Center
 
 ---
 <div align="center">
-  <b>Thank you for visiting my profile! Let's connect and build amazing things together. 🚀</b>
+  <b>Let's connect and build amazing data solutions together! 🚀</b>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=baselnabil&color=brightgreen)
+  ![Profile Views](https://komarev.com/ghpvc/?username=baselnabil&color=blueviolet)
 </div>
