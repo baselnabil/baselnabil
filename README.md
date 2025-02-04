@@ -63,8 +63,7 @@
 ### Real-Time Streaming with Kafka
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baselnabil&repo=Kafka-Spark-Streaming)](https://github.com/baselnabil/Kafka-Spark-Streaming)
 
-## 📈 Activity Graph
-![Basel's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=baselnabil&theme=react-dark)
+
 
 ## 🏆 Certifications
 - AWS Certified Cloud Practitioner
