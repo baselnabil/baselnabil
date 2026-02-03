@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   
 # Hi there! 👋 I'm Basel Nabil
 
@@ -76,4 +76,4 @@
   <b>Let's connect and build amazing data solutions together! 🚀</b>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=baselnabil&color=blueviolet)
-</div>
+</div> -->
